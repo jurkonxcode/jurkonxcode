@@ -26,9 +26,9 @@
 
 ### ⚙️ system status
 
-    [■] coding         ████████████░░░░  75%
-    [■] sleeping       ██░░░░░░░░░░░░░░  10%
-    [■] overthinking   ████████████████ 100%
+    coding         [==========------]  70%
+    sleeping       [#---------------]  10%
+    overthinking   [================] 100%
 
 ---
 
@@ -44,17 +44,12 @@
 ### 📡 signal
 
 [![GitHub](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/jurkonxcode)
-[![Email](https://img.shields.io/badge/-email-000000?style=for-the-badge&logo=protonmail&logoColor=00ff41)](mailto:jurkon@yahoo.com)
+[![Email](https://img.shields.io/badge/-email-000000?style=for-the-badge&logo=protonmail&logoColor=00ff41)](mailto:email@kamu.com)
 
 ---
-### 📊 signal stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jurkonxcode&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&include_all_commits=true&count_private=true" width="90%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurkonxcode&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=6" width="70%" />
+> control is an illusion.
 
 </div>
